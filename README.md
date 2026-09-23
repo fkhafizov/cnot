@@ -1,4 +1,5 @@
-# quantum-compute
+# CNOT
+* quantum-compute
 
 2026.09.23
 
