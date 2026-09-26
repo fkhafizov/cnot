@@ -2,6 +2,8 @@
 
 ![ciruit-image.png](ciruit-image.png)
 
+![Circuit image](circuit-image.png)
+
 This is the circuit panel at the **final step** of a path, with every gate drawn solid. It shows 9 CNOT gates that together compute $y = Mx \pmod 2$ for a $4\times4$ matrix $M$.
 
 
