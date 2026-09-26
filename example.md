@@ -1,6 +1,6 @@
 # 2026.09.26
 
-![ciruit-image.png](ciruit-image.png)
+
 
 ![Circuit image](circuit-image.png)
 
